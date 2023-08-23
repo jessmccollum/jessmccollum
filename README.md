@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
-<p align="center">graphic designer and coder</p>
 
 - 👨‍💻 All of my projects are available at [jessicamccollum.com](jessicamccollum.com)
 - 📫 How to reach me **hello@jessicamccollum.com**
