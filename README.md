@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 
-- 👨‍💻 All of my projects are available at [jessicamccollum.com](https//jessicamccollum.com)
+- 👨‍💻 All of my projects are available at [jessicamccollum.com](wwww.jessicamccollum.com)
 - 📫 How to reach me **hello@jessicamccollum.com**
   
 <h3 align="left">Languages and Tools:</h3>
